@@ -1,5 +1,7 @@
 ## #11 Symbol, Set and Map
 
+별로 안중요해서 니콜라스가 신경을 많이 쓰지 않은 챕터
+
 ### 1. Symbols
 
 > Symbol
